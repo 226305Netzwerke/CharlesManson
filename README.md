@@ -1,7 +1,6 @@
 # Manson
-Pretest zum Netzwerk von Charles Manson
 
-Datenstand: 07. Januar 2020
+Datenstand: 13. März 2020
 
 
  						
